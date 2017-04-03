@@ -1,0 +1,12 @@
+.setting-container{
+  position: absolute;
+  left: 0;
+  width: 30%;
+
+
+}
+.graph-container{
+  position: absolute;
+  left: 30%;
+  width: 50%;
+}

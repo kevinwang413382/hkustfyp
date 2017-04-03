@@ -1,0 +1,15 @@
+.date-input{
+  text-align: left;
+  background-color: lightpink;
+  height:30px;
+  margin-top: 5px;
+
+}
+
+.date-input label{
+
+}
+
+.date-input input{
+  margin-top: 1%;
+}

@@ -1,0 +1,16 @@
+.graph-container{
+  width: 200px;
+  height: 200px;
+  overflow: visible;
+
+}
+
+
+.svgClassName{
+  position: absolute;
+  left:-10%;
+  background: lightpink;
+  z-index: -1;
+
+
+}
